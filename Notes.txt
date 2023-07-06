@@ -1,0 +1,4 @@
+Generate git token to access repo 
+token: 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
+
+open git bash and 
